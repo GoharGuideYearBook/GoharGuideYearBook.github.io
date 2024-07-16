@@ -1,15 +1,18 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
+    color: #000;
     margin: 0;
     padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 .container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Ensures 3 columns */
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px;
-    justify-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
 }
 
 .profile {
@@ -20,6 +23,7 @@ body {
     text-align: center;
     width: 150px;
     padding: 10px;
+    transition: background-color 0.3s, border-color 0.3s;
 }
 
 .profile img {
@@ -39,4 +43,73 @@ body {
     margin: 0;
     font-size: 0.9em;
     color: #555;
+    transition: color 0.3s;
+}
+
+.section-header {
+    font-size: 2em;
+    text-align: center;
+    margin: 60px 0 40px 0;
+    color: #333;
+    transition: color 0.3s;
+}
+
+.static-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.static-image-container {
+    text-align: center;
+    width: calc(50% - 20px);
+}
+
+.static-image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.static-image-container p {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333;
+    transition: color 0.3s;
+}
+
+#darkModeToggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#darkModeToggle:hover {
+    background-color: #555;
+}
+
+body.dark-mode {
+    background-color: #121212;
+    color: #fff;
+}
+
+body.dark-mode .profile {
+    background-color: #1e1e1e;
+    border-color: #333;
+}
+
+body.dark-mode .info p,
+body.dark-mode .section-header,
+body.dark-mode .static-image-container p {
+    color: #bbb;
 }

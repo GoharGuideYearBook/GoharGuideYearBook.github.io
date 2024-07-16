@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     const container = document.getElementById('container');
+    const darkModeToggle = document.getElementById('darkModeToggle');
 
     fetch('data/people.json')
         .then(response => {
@@ -30,9 +31,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 infoDiv.appendChild(quote);
                 profileDiv.appendChild(img);
                 profileDiv.appendChild(infoDiv);
-
                 container.appendChild(profileDiv);
             });
         })
-        .catch(error => console.error('Error fetching the people data:', error));
+        .catch(error => console.error('There was a problem with the fetch operation:', error));
+
+    darkModeToggle.addEventListener('click', () => {
+        document.body.classList.toggle('dark-mode');
+    });
 });
