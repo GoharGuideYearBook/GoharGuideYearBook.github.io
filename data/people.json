@@ -1,27 +1,14 @@
 [
     {
-        "name": "Walter",
-        "quote": "Bro I didnt shower today lmao.",
-        "img": "images/walter.jpg"
+        "name": "umbrella_duckk",
+        "role": "Staff",
+        "quote": "boo.",
+        "img": "images/umbrella_duckk.webp"
     },
     {
-        "name": "Bingus",
-        "quote": "Balls.",
-        "img": "images/bingus.jpg"
-    },
-    {
-        "name": "Juan",
-        "quote": "YO TENGO",
-        "img": "images/juan.jpg"
-    },
-    {
-        "name": "Person 4",
-        "quote": "I ran out of pictures here. :(",
-        "img": "images/bingus.jpg"
-    },
-    {
-        "name": "Person 5",
-        "quote": "They start repeating. :(",
-        "img": "images/walter.jpg"
+        "name": "AuthenticERA",
+        "role": "Staff",
+        "quote": "My balls are on the line",
+        "img": "images/AuthenticERA.webp"
     }
 ]

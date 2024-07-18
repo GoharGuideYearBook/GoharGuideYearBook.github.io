@@ -24,10 +24,15 @@ document.addEventListener("DOMContentLoaded", function() {
                 const name = document.createElement('h3');
                 name.textContent = person.name;
 
+                const role = document.createElement('h5');
+                role.textContent = person.role;
+                role.classList.add('role');
+
                 const quote = document.createElement('p');
                 quote.textContent = person.quote;
 
-                infoDiv.appendChild(name);
+                infoDiv.appendChild(name);  
+                infoDiv.appendChild(role);
                 infoDiv.appendChild(quote);
                 profileDiv.appendChild(img);
                 profileDiv.appendChild(infoDiv);

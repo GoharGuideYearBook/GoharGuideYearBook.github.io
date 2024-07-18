@@ -39,6 +39,12 @@ body {
     font-size: 1em;
 }
 
+.info .role {
+    margin: 0;
+    font-size: 0.9em;
+    color: #777;
+}
+
 .info p {
     margin: 0;
     font-size: 0.9em;
