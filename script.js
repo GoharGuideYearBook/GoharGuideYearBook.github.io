@@ -2,6 +2,27 @@ document.addEventListener("DOMContentLoaded", function() {
     const container = document.getElementById('container');
     const darkModeToggle = document.getElementById('darkModeToggle');
 
+    // Function to load dark mode preference
+    function loadDarkModePreference() {
+        const darkMode = localStorage.getItem('darkMode');
+        if (darkMode === 'enabled') {
+            document.body.classList.add('dark-mode');
+        }
+    }
+
+    // Function to save dark mode preference
+    function saveDarkModePreference() {
+        if (document.body.classList.contains('dark-mode')) {
+            localStorage.setItem('darkMode', 'enabled');
+        } else {
+            localStorage.setItem('darkMode', 'disabled');
+        }
+    }
+
+    // Load dark mode preference on page load
+    loadDarkModePreference();
+
+    // Fetch the data from JSON file and display profiles
     fetch('data/people.json')
         .then(response => {
             if (!response.ok) {
@@ -24,14 +45,14 @@ document.addEventListener("DOMContentLoaded", function() {
                 const name = document.createElement('h3');
                 name.textContent = person.name;
 
-                const role = document.createElement('h5');
+                const role = document.createElement('p');
                 role.textContent = person.role;
                 role.classList.add('role');
 
                 const quote = document.createElement('p');
                 quote.textContent = person.quote;
 
-                infoDiv.appendChild(name);  
+                infoDiv.appendChild(name);
                 infoDiv.appendChild(role);
                 infoDiv.appendChild(quote);
                 profileDiv.appendChild(img);
@@ -41,7 +62,9 @@ document.addEventListener("DOMContentLoaded", function() {
         })
         .catch(error => console.error('There was a problem with the fetch operation:', error));
 
+    // Add event listener to toggle dark mode
     darkModeToggle.addEventListener('click', () => {
         document.body.classList.toggle('dark-mode');
+        saveDarkModePreference();
     });
 });
