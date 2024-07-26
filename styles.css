@@ -88,7 +88,8 @@ body {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border: 5px solid #000;
+    box-shadow: 0 5px 4px rgba(0,0,0,0.1);
 }
 
 .static-image-container p {
@@ -199,6 +200,10 @@ body.dark-mode .profile {
 
 .dark-mode .stat-item h3, .dark-mode .stat-item p {
     color: #f0f0f0;
+}
+
+.dark-mode .static-image-container img {
+    border: 5px solid #555;
 }
 
 body.dark-mode .info p,
