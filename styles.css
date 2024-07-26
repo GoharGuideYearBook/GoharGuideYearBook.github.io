@@ -10,6 +10,7 @@ body {
 .container {
     display: flex;
     flex-wrap: wrap;
+    align-items: flex-start;
     gap: 20px;
     justify-content: center;
     margin-bottom: 60px;
@@ -24,6 +25,8 @@ body {
     width: 150px;
     padding: 10px;
     transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+    overflow: hidden;
+    flex-shrink: 5;
 }
 
 .profile img {
@@ -36,6 +39,7 @@ body {
 
 .profile:hover {
     transform: scale(1.1);
+    z-index: 1;
 }
 
 .info h3 {
@@ -54,6 +58,10 @@ body {
     font-size: 0.9em;
     color: #555;
     transition: color 0.3s;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow-wrap: break-word;
+    height: auto;
 }
 
 .section-header {
