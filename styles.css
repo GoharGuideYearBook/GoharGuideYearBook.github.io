@@ -203,6 +203,7 @@ body.dark-mode .profile {
 
 body.dark-mode .info p,
 body.dark-mode .section-header,
+body.dark-mode .section-subheader,
 body.dark-mode .static-image-container p {
     color: #bbb;
 }
