@@ -86,6 +86,72 @@ body {
     transition: color 0.3s;
 }
 
+.stats-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.stats-header {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px; /* Adjusted width */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stat-item {
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.stat-item h3 {
+    margin: 5px 0;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.stat-item p {
+    margin: 0;
+    font-size: 1em;
+    color: #555;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.3s;
+    opacity: 0;
+}
+
+.stat-item:hover h3 {
+    transform: scale(0);
+    opacity: 0;
+}
+
+.stat-item:hover p {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+}
+
 #darkModeToggle {
     position: fixed;
     bottom: 20px;
@@ -112,6 +178,15 @@ body.dark-mode {
 body.dark-mode .profile {
     background-color: #1e1e1e;
     border-color: #333;
+}
+
+.dark-mode .stats-header, .dark-mode .stats-container {
+    background-color: #1e1e1e;
+    border-color: #333;
+}
+
+.dark-mode .stat-item h3, .dark-mode .stat-item p {
+    color: #f0f0f0;
 }
 
 body.dark-mode .info p,
