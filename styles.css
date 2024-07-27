@@ -24,9 +24,13 @@ body {
     text-align: center;
     width: 150px;
     padding: 10px;
-    transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
     overflow: hidden;
-    flex-shrink: 5;
+    transition: background-color 0.3s, border-color 0.3s, transform 0.3s;
+    word-wrap: break-word;
+    white-space: normal;
+    overflow-wrap: break-word;
+    height: auto;
+    flex: 0 1 auto;
 }
 
 .profile img {
@@ -35,6 +39,7 @@ body {
     height: 100px;
     object-fit: cover;
     margin-bottom: 10px;
+    margin: 0 auto;
 }
 
 .profile:hover {
@@ -44,7 +49,7 @@ body {
 
 .info h3 {
     margin: 10px 0 5px 0;
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 .info .role {
@@ -105,6 +110,12 @@ body {
     font-size: 1em;
     color: #333;
     transition: color 0.3s;
+}
+
+@media (max-width: 768px) {
+    .static-image-container {
+        width: 100%; /* Full width for smaller screens */
+    }
 }
 
 .stats-wrapper {
