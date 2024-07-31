@@ -1,14 +1,14 @@
 [
     {
-        "name": "umbrella_duckk",
-        "role": "Moderator",
-        "quote": "boo.",
-        "img": "images/umbrella_duckk.webp"
+        "name": "gohar",
+        "role": "Admin",
+        "quote": "“Logic will get you from A to Z; imagination will get you everywhere.” ―Albert Einstein",
+        "img": "images/gohar.webp"
     },
     {
-        "name": "AuthenticERA",
-        "role": "Moderator",
-        "quote": "Let’s play princess tycoon 🩷👸👑",
-        "img": "images/AuthenticERA.webp"
+        "name": "Andrew",
+        "role": "Server Manager",
+        "quote": "Trust the process",
+        "img": "images/Andrew.webp"
     }
 ]
