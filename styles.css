@@ -55,7 +55,8 @@ body {
 .info .role {
     margin: 0;
     font-size: 0.9em;
-    color: #777;
+    color: #555;
+    font-weight: bold;
 }
 
 .info p {
