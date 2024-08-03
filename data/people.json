@@ -10,5 +10,35 @@
         "role": "Server Manager",
         "quote": "Trust the process",
         "img": "images/Andrew.webp"
+    },
+    {
+        "name": "Albertosaurusrex",
+        "role": "Sr. Moderator",
+        "quote": "Fuck around and find out",
+        "img": "images/Albertosaurusrex.webp"
+    },
+    {
+        "name": "Teash",
+        "role": "Sr. Moderator",
+        "quote": "Sometimes it isnt about having the energy, its about finding it",
+        "img": "images/Teash.webp"
+    },
+    {
+        "name": "natsu",
+        "role": "Sr. Moderator",
+        "quote": "If you stack up my bans, they would be higher than my height.",
+        "img": "images/natsu.webp"
+    },
+    {
+        "name": "immx",
+        "role": "Sr. Moderator",
+        "quote": "I didn't know this was an academic server. Who's gohar?",
+        "img": "images/immx.webp"
+    },
+    {
+        "name": "fightmi",
+        "role": "Sr. Moderator",
+        "quote": "I am 55",
+        "img": "images/fightmi.webp"
     }
 ]
