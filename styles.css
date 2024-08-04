@@ -113,7 +113,7 @@ body {
     transition: color 0.3s;
 }
 
-@media (max-width: 640px) {
+@media (max-width: 768px) {
     .static-image-container {
         width: 100%; /* Full width for smaller screens */
     }
