@@ -113,7 +113,7 @@ body {
     transition: color 0.3s;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     .static-image-container {
         width: 100%; /* Full width for smaller screens */
     }
@@ -162,27 +162,35 @@ body {
     cursor: pointer;
     transition: transform 0.3s;
 }
-
 .stat-item p {
-    margin: 0;
-    font-size: 1em;
-    color: #555;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) scale(0);
-    transition: transform 0.3s;
-    opacity: 0;
+        margin: 0;
+        font-size: 1em;
+        color: #555;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(0);
+        transition: transform 0.3s;
+        opacity: 0;
 }
-
 .stat-item:hover h3 {
-    transform: scale(0);
-    opacity: 0;
+        transform: scale(0);
+        opacity: 0;
 }
 
 .stat-item:hover p {
     transform: translate(-50%, -50%) scale(1);
     opacity: 1;
+}
+
+.stat-item:active h3 {
+    transform: scale(0);
+    opacity: 0;
+}
+
+.stat-item:active p {
+transform: translate(-50%, -50%) scale(1);
+opacity: 1;
 }
 
 #darkModeToggle {
