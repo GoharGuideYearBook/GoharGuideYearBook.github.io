@@ -1,4 +1,4 @@
-[
+[   
     {
         "name": "gohar",
         "role": "Admin",
@@ -34,12 +34,6 @@
         "role": "Sr. Moderator",
         "quote": "I didn't know this was an academic server. Who's gohar?",
         "img": "images/immx.webp"
-    },
-    {
-        "name": "fightmi",
-        "role": "Sr. Moderator",
-        "quote": "I am 55",
-        "img": "images/fightmi.webp"
     },
     {
         "name": "Lynn_.v",
@@ -136,5 +130,47 @@
         "role": "Moderator",
         "quote": "Pineapple belongs on Pizza",
         "img": "images/Thalia.webp"
+    },
+    {
+        "name": "lassitaffy",
+        "role": "Event Department",
+        "quote": "life is short. i am too. make the most of both while you still can. bye miss me ❤️",
+        "img": "images/lassitaffy.webp"
+    },
+    {
+        "name": "Delta",
+        "role": "Event Department",
+        "quote": "swag.",
+        "img": "images/Delta.webp"
+    },
+    {
+        "name": "harry_16",
+        "role": "Event Department",
+        "quote": "Ad astra",
+        "img": "images/harry_16.webp"
+    },
+    {
+        "name": "lilquack",
+        "role": "Event Department",
+        "quote": "What's going on?",
+        "img": "images/lilquack.webp"
+    },
+    {
+        "name": "danstestprep",
+        "role": "Event Department",
+        "quote": "Certainly! I can provide a quote for your Gohar's Guide yearbook form (naw im jk lol i wouldn't gpt)",
+        "img": "images/danstestprep.webp"
+    },
+    {
+        "name": "cheryl4302",
+        "role": "Event Department",
+        "quote": "i love beans",
+        "img": "images/cheryl4302.webp"
+    },
+    {
+        "name": "owopi",
+        "role": "Event Department",
+        "quote": "kids please don't do IB its not worth it spare yourself from the misery",
+        "img": "images/owopi.webp"
     }
 ]
