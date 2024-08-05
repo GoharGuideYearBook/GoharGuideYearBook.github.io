@@ -6,6 +6,24 @@
         "img": "images/gohar.webp"
     },
     {
+        "name": "mahadthementor",
+        "role": "Admin",
+        "quote": "Hi all! I'm a Harvard grad with a degree in Economics and Psychology! See you soon!",
+        "img": "images/mahadthementor.webp"
+    },
+    {
+        "name": "shayaninspace",
+        "role": "Admin",
+        "quote": "MY NAME IS PRONOUNCED AS SHY-ON",
+        "img": "images/shayaninspace.webp"
+    },
+    {
+        "name": "spiralio",
+        "role": "Admin",
+        "quote": "Ocassionally coding, ocassionally editing",
+        "img": "images/spiralio.webp"
+    },
+    {
         "name": "Andrew",
         "role": "Server Manager",
         "quote": "Trust the process",
