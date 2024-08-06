@@ -150,6 +150,12 @@
         "img": "images/Thalia.webp"
     },
     {
+        "name": "Noa",
+        "role": "Moderator",
+        "quote": "never force anything just let it be if it’s meant to be it will be",
+        "img": "images/Noa.webp"
+    },
+    {
         "name": "lassitaffy",
         "role": "Event Department",
         "quote": "life is short. i am too. make the most of both while you still can. bye miss me ❤️",
@@ -190,5 +196,59 @@
         "role": "Event Department",
         "quote": "kids please don't do IB its not worth it spare yourself from the misery",
         "img": "images/owopi.webp"
+    },
+    {
+        "name": "vammta",
+        "role": "History Contributor",
+        "quote": "I live and create",
+        "img": "images/vammta.webp"
+    },
+    {
+        "name": "thegekka",
+        "role": "STEM Contributor",
+        "quote": "math is life",
+        "img": "images/thegekka.webp"
+    },
+    {
+        "name": "BiaTheMighty",
+        "role": "STEM Contributor",
+        "quote": "\"it's so hard being a silly goose in this anti-whimsy world.\"",
+        "img": "images/BiaTheMighty.webp"
+    },
+    {
+        "name": "circleelipsis",
+        "role": "Extracurricular Contributor",
+        "quote": "When my eyes are closed, I can’t see",
+        "img": "images/circleelipsis.webp"
+    },
+    {
+        "name": "Yoursociallyawkardweeb0_o ",
+        "role": "Venting Contributor",
+        "quote": "I help you in venting but I'm also probably the reason you need to vent <3",
+        "img": "images/Yoursociallyawkardweeb0_o .webp"
+    },
+    {
+        "name": "alaska_v.2",
+        "role": "STEM Contributor",
+        "quote": "The devil whispered in my ear \"you can't ourun the storm.\" I replied, \"I got bounce pads\"",
+        "img": "images/alaska_v.2.webp"
+    },
+    {
+        "name": "ali_a_",
+        "role": "STEM Contributor",
+        "quote": "i procrastinated writing this",
+        "img": "images/ali_a_.webp"
+    },
+    {
+        "name": "praneel.g",
+        "role": "STEM Contributor",
+        "quote": "Euler's number, to the power of the imaginary unit times pi, plus one, equals zero.",
+        "img": "images/praneel.g.webp"
+    },
+    {
+        "name": "sp1keyy",
+        "role": "STEM Contributor",
+        "quote": "I don't know what I'm doing but it's something",
+        "img": "images/sp1keyy.webp"
     }
 ]
