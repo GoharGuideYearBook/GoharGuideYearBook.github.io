@@ -352,5 +352,17 @@
         "role": "Alumni Staff",
         "quote": "Live every day like it could be your last, but never wish it's your last, because it very well may be",
         "img": "images/theliving..webp"
+    },
+    {
+        "name": "ras_tea",
+        "role": "Alumni Staff",
+        "quote": "My flame was an illusion, but it burnt you because you believed it.",
+        "img": "images/ras_tea.webp"
+    },
+    {
+        "name": "dumb_oreo",
+        "role": "Alumni Staff",
+        "quote": "The Office, Season 7, episode 19, minute 14:45 ",
+        "img": "images/dumb_oreo.webp"
     }
 ]
