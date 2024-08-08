@@ -364,5 +364,41 @@
         "role": "Elite",
         "quote": "The Office, Season 7, episode 19, minute 14:45 ",
         "img": "images/dumb_oreo.webp"
+    },
+    {
+        "name": "Lil Baby",
+        "role": "Veteran",
+        "quote": "“Bro calm down” - Lil Baby",
+        "img": "images/Lil Baby.webp"
+    },
+    {
+        "name": "mullyzee",
+        "role": "Veteran",
+        "quote": "why fall in love when you can fall in despair :)",
+        "img": "images/mullyzee.webp"
+    },
+    {
+        "name": "ghoulishlypale",
+        "role": "Veteran",
+        "quote": "Boo, it's your local ghoul! *quack*",
+        "img": "images/ghoulishlypale.webp"
+    },
+    {
+        "name": "theperko",
+        "role": "Veteran",
+        "quote": "I love milk. ",
+        "img": "images/theperko.webp"
+    },
+    {
+        "name": "percival_11213",
+        "role": "Veteran",
+        "quote": "just keep sleeping",
+        "img": "images/percival_11213.webp"
+    },
+    {
+        "name": "hexes___",
+        "role": "Veteran",
+        "quote": "\"Always chaos but its fun and hopefully one day English will be englishing\"",
+        "img": "images/hexes___.webp"
     }
 ]
