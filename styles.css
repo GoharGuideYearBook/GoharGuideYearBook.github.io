@@ -95,7 +95,7 @@ body {
 
 .static-image-container {
     text-align: center;
-    width: calc(50% - 20px);
+    width: calc(35% - 20px);
 }
 
 .static-image-container img {
