@@ -1,0 +1,669 @@
+[
+    {
+        "name": "gohar",
+        "role": "Admin",
+        "quote": "“Logic will get you from A to Z; imagination will get you everywhere.” ―Albert Einstein",
+        "img": "images/gohar.webp"
+    },
+    {
+        "name": "mahadthementor",
+        "role": "Admin",
+        "quote": "Hi all! I'm a Harvard grad with a degree in Economics and Psychology! See you soon!",
+        "img": "images/mahadthementor.webp"
+    },
+    {
+        "name": "shayaninspace",
+        "role": "Admin",
+        "quote": "MY NAME IS PRONOUNCED AS SHY-ON",
+        "img": "images/shayaninspace.webp"
+    },
+    {
+        "name": "spiralio",
+        "role": "Admin",
+        "quote": "Ocassionally coding, ocassionally editing",
+        "img": "images/spiralio.webp"
+    },
+    {
+        "name": "and_rew.",
+        "role": "Server Manager",
+        "quote": "Trust the process",
+        "img": "avatars/and_rew..webp"
+    },
+    {
+        "name": ".teash",
+        "role": "Sr. Moderator",
+        "quote": "One year older, One year wiser, lets run it back",
+        "img": "avatars/.teash.webp"
+    },
+    {
+        "name": "albertosaurusrex",
+        "role": "Sr. Moderator",
+        "quote": "Why the fuck am I still here?",
+        "img": "avatars/albertosaurusrex.webp"
+    },
+    {
+        "name": "avena.leaf",
+        "role": "Sr. Moderator",
+        "quote": "Let yourself disappoint them; you must be selfish with your own life. Don’t chase 8 billion versions of others perfection chase the one you want to be",
+        "img": "avatars/avena.leaf.webp"
+    },
+    {
+        "name": "immx",
+        "role": "Sr. Moderator",
+        "quote": "To fuck around is to find out, to find out is to age. Fuck I'm old.",
+        "img": "avatars/immx.webp"
+    },
+    {
+        "name": "kinxmi",
+        "role": "Sr. Moderator",
+        "quote": "Keep dreaming sweet dreams.",
+        "img": "avatars/kinxmi.webp"
+    },
+    {
+        "name": ".cal1co.",
+        "role": "Moderator",
+        "quote": "meow",
+        "img": "avatars/.cal1co..webp"
+    },
+    {
+        "name": "alyxi.",
+        "role": "Moderator",
+        "quote": "Life is a book full of chapters, make each one memorable. 💕",
+        "img": "avatars/alyxi..webp"
+    },
+    {
+        "name": "amoeba521",
+        "role": "Moderator",
+        "quote": "Mhm? Mhm.... Mhm! 👍",
+        "img": "avatars/amoeba521.webp"
+    },
+    {
+        "name": "aurealis._.",
+        "role": "Moderator",
+        "quote": "Guess What?",
+        "img": "avatars/aurealis._..webp"
+    },
+    {
+        "name": "autumn12345678910",
+        "role": "Moderator",
+        "quote": "Mama look! A gurl who cnt soell behinf you",
+        "img": "avatars/autumn12345678910.webp"
+    },
+    {
+        "name": "dark_yetii",
+        "role": "Moderator",
+        "quote": "Try to be positive. World isn't as bad as it seems :)",
+        "img": "avatars/dark_yetii.webp"
+    },
+    {
+        "name": "deltaxp.",
+        "role": "Moderator",
+        "quote": "piiid is cool",
+        "img": "avatars/deltaxp..webp"
+    },
+    {
+        "name": "kenothrowsgas",
+        "role": "Moderator",
+        "quote": "“He who fears death will never do anything worthy of a man who is alive”",
+        "img": "avatars/kenothrowsgas.webp"
+    },
+    {
+        "name": "komeah",
+        "role": "Moderator",
+        "quote": "i eat my problems away",
+        "img": "avatars/komeah.webp"
+    },
+    {
+        "name": "lilbaby3578",
+        "role": "Moderator",
+        "quote": "Guys Krisha makes me cry everyday",
+        "img": "avatars/lilbaby3578.webp"
+    },
+    {
+        "name": "md.ismail",
+        "role": "Moderator",
+        "quote": "Delete Discord",
+        "img": "avatars/md.ismail.webp"
+    },
+    {
+        "name": "nitewolf_101",
+        "role": "Moderator",
+        "quote": "\"Heart. Lungs. Liver. Nerves.\" - Voice of the Paranoid",
+        "img": "avatars/nitewolf_101.webp"
+    },
+    {
+        "name": "piiid",
+        "role": "Moderator",
+        "quote": "delta is cool",
+        "img": "avatars/piiid.webp"
+    },
+    {
+        "name": "sanktitanic",
+        "role": "Moderator",
+        "quote": "Surviving the last 2 years of Goharia has been insane. Godspeed soldiers. It's been a rough ride but also a *somewhat* enjoyable one <3",
+        "img": "avatars/sanktitanic.webp"
+    },
+    {
+        "name": "thalia9528",
+        "role": "Moderator",
+        "quote": "Another year, same quote. I'm still on the pineapple on pizza boat.",
+        "img": "avatars/thalia9528.webp"
+    },
+    {
+        "name": "thegekka",
+        "role": "Moderator",
+        "quote": "i love math",
+        "img": "avatars/thegekka.webp"
+    },
+    {
+        "name": "tiredmess",
+        "role": "Moderator",
+        "quote": "Delta definitely does not have me at gunpoint to do this quote. whaaat that’s crazy delta would never (HELP)",
+        "img": "avatars/tiredmess.webp"
+    },
+    {
+        "name": "vessiiii",
+        "role": "Moderator",
+        "quote": "“Who am I to be amazing?” Who are you not to be?",
+        "img": "avatars/vessiiii.webp"
+    },
+    {
+        "name": "akiioxo",
+        "role": "Event Department",
+        "quote": "what you seek is seeking you",
+        "img": "avatars/akiioxo.webp"
+    },
+    {
+        "name": "cheryl4302",
+        "role": "Event Department",
+        "quote": "\"Life is tough, so are you.\"",
+        "img": "avatars/cheryl4302.webp"
+    },
+    {
+        "name": "clarak_1",
+        "role": "Event Department",
+        "quote": "im a furry",
+        "img": "avatars/clarak_1.webp"
+    },
+    {
+        "name": "ghoulishlypale",
+        "role": "Event Department",
+        "quote": "Boo!!! Did I get you this time? <3",
+        "img": "avatars/ghoulishlypale.webp"
+    },
+    {
+        "name": "harry_16",
+        "role": "Event Department",
+        "quote": "I calculate, therefore I am.",
+        "img": "avatars/harry_16.webp"
+    },
+    {
+        "name": "hazel_bazell",
+        "role": "Event Department",
+        "quote": "im an e girl",
+        "img": "avatars/hazel_bazell.webp"
+    },
+    {
+        "name": "itz.sri",
+        "role": "Event Department",
+        "quote": "I’m not a morning person, I’m not an afternoon person, I’m barely an evening person :P",
+        "img": "avatars/itz.sri.webp"
+    },
+    {
+        "name": "kingofpotatoes.",
+        "role": "Event Department",
+        "quote": "im a femboy",
+        "img": "avatars/kingofpotatoes..webp"
+    },
+    {
+        "name": "krisha333",
+        "role": "Event Department",
+        "quote": "One day I’ll get mod just to see if Lil Baby cries.",
+        "img": "avatars/krisha333.webp"
+    },
+    {
+        "name": "lassitaffy",
+        "role": "Event Department",
+        "quote": "i didn't work this hard for a boring ending, it's for the plot",
+        "img": "avatars/lassitaffy.webp"
+    },
+    {
+        "name": "teaclovers",
+        "role": "Event Department",
+        "quote": "What's meant to be will always find a way.",
+        "img": "avatars/teaclovers.webp"
+    },
+    {
+        "name": ".actualdumbatcha.",
+        "role": "Contributor",
+        "quote": "variables were imposed into mathematics by the government to make our lives harder.",
+        "img": "avatars/.actualdumbatcha..webp"
+    },
+    {
+        "name": "mersenneprimes1",
+        "role": "Contributor",
+        "quote": "Uhhh, hi Gohar.",
+        "img": "avatars/mersenneprimes1.webp"
+    },
+    {
+        "name": "overcubed.",
+        "role": "Contributor",
+        "quote": "\"The greatest victory is that which requires no battle.\" - Sun Tzu",
+        "img": "avatars/overcubed..webp"
+    },
+    {
+        "name": "pizza_ig",
+        "role": "Contributor",
+        "quote": "im really hungry..",
+        "img": "avatars/pizza_ig.webp"
+    },
+    {
+        "name": "praneel.g",
+        "role": "Contributor",
+        "quote": "cintayāmi, ataḥ asmi",
+        "img": "avatars/praneel.g.webp"
+    },
+    {
+        "name": "soapoof",
+        "role": "Contributor",
+        "quote": "if all else fails, there is delusion",
+        "img": "avatars/soapoof.webp"
+    },
+    {
+        "name": "sr.depressed",
+        "role": "Contributor",
+        "quote": "f is Riemann integrable on [a,b] iff ∀ε>0, ∃P s.t. U(f, P) - L(f, P) < ε",
+        "img": "avatars/sr.depressed.webp"
+    },
+    {
+        "name": "black_jaguar3493",
+        "role": "Alumni Staff",
+        "quote": "Do not listen to anyone who says you cannot do it... If you have the will you always can.",
+        "img": "avatars/black_jaguar3493.webp"
+    },
+    {
+        "name": "authenticera",
+        "role": "Alumni Staff",
+        "quote": "fortnite battle royale",
+        "img": "images/Authentic.webp"
+    },
+    {
+        "name": "cyncinatti",
+        "role": "Alumni Staff",
+        "quote": "There is a bell at the end of time. If you listen closely, you can still hear it ringing.",
+        "img": "avatars/cyncinatti.webp"
+    },
+    {
+        "name": "kaiak.",
+        "role": "Alumni Staff",
+        "quote": "I'm always watching from the shadows teehee",
+        "img": "avatars/kaiak..webp"
+    },
+    {
+        "name": "lynn_.v",
+        "role": "Alumni Staff",
+        "quote": "i hate valorant",
+        "img": "avatars/lynn_.v.webp"
+    },
+    {
+        "name": "maple04189",
+        "role": "Alumni Staff",
+        "quote": "When i was a child i yearned for the mines.",
+        "img": "avatars/maple04189.webp"
+    },
+    {
+        "name": "profsr.rvn",
+        "role": "Alumni Staff",
+        "quote": "Chicken Butt :)",
+        "img": "avatars/profsr.rvn.webp"
+    },
+    {
+        "name": "rainalright",
+        "role": "Alumni Staff",
+        "quote": "\"I secretly love future songs\"",
+        "img": "avatars/rainalright.webp"
+    },
+    {
+        "name": "the_workaholic",
+        "role": "Alumni Staff",
+        "quote": "Work hard kids",
+        "img": "avatars/the_workaholic.webp"
+    },
+    {
+        "name": "umbrella_duckk",
+        "role": "Alumni Staff",
+        "quote": "Thanks for another great year guys!! To quote my favourite band - “Life gives you lemons, at least it gave you something”",
+        "img": "avatars/umbrella_duckk.webp"
+    },
+    {
+        "name": "yoursociallyawkardweeb0_o",
+        "role": "Alumni Staff",
+        "quote": "I need Gohar to adopt my grades because there's no way I'm raising them on my own.",
+        "img": "avatars/yoursociallyawkardweeb0_o.webp"
+    },
+    {
+        "name": "deadlywhirlewind",
+        "role": "Server Booster",
+        "quote": "Planes are better than cars. Objectively. Don't agree? Then you are wrong.",
+        "img": "avatars/deadlywhirlewind.webp"
+    },
+    {
+        "name": "icecreamdude",
+        "role": "Server Booster",
+        "quote": "Ktoff is tuff",
+        "img": "avatars/icecreamdude.webp"
+    },
+    {
+        "name": "masoniscool123",
+        "role": "Server Booster",
+        "quote": "Long ago, two races ruled over Earth: HUMANS and MONSTERS. One day, war broke out between the two races. After a long battle, the humans won.",
+        "img": "avatars/masoniscool123.webp"
+    },
+    {
+        "name": "spagh3tt1.",
+        "role": "Server Booster",
+        "quote": "A fetus, a lesbian, and a stormtrooper walk into a bar",
+        "img": "avatars/spagh3tt1..webp"
+    },
+    {
+        "name": "epsilon42924",
+        "role": "Veteran",
+        "quote": "Man’s iniquities elucidate the common laws of virtue upon which we find our true meaning through careful examination",
+        "img": "avatars/epsilon42924.webp"
+    },
+    {
+        "name": "hexes____",
+        "role": "Veteran",
+        "quote": "Uncs are cool too so don't be a hater 😎",
+        "img": "avatars/hexes____.webp"
+    },
+    {
+        "name": "overthinkingpoet",
+        "role": "Veteran",
+        "quote": "I have everything and nothing to say at all. Just know that-",
+        "img": "avatars/overthinkingpoet.webp"
+    },
+    {
+        "name": "rajat83190",
+        "role": "Veteran",
+        "quote": "Gambling is good.",
+        "img": "avatars/rajat83190.webp"
+    },
+    {
+        "name": "roughbuddy28",
+        "role": "Veteran",
+        "quote": "percy jackson makes himself seem like a dork but everyone else thinks he's basically a god. take that as you will :)",
+        "img": "avatars/roughbuddy28.webp"
+    },
+    {
+        "name": "sussytuna",
+        "role": "Veteran",
+        "quote": "I yearn for the mines",
+        "img": "avatars/sussytuna.webp"
+    },
+    {
+        "name": "uselessguyfr",
+        "role": "Veteran",
+        "quote": "I'll give you free candy if you get in my white van",
+        "img": "avatars/uselessguyfr.webp"
+    },
+    {
+        "name": "vans_.p",
+        "role": "Veteran",
+        "quote": "even when I step out of the gutter someones always shoveling shit at my face🥀💔. #im14andthisisdeep",
+        "img": "avatars/vans_.p.webp"
+    },
+    {
+        "name": "zoey11213",
+        "role": "Veteran",
+        "quote": "Respectfully, I hope physics and maths rot in hell.",
+        "img": "avatars/zoey11213.webp"
+    },
+    {
+        "name": "._.haze._._.",
+        "role": "Regular",
+        "quote": "What color is the sky Ay mi amor ay mi amor",
+        "img": "avatars/._.haze._._..webp"
+    },
+    {
+        "name": ".aesthet.e",
+        "role": "Regular",
+        "quote": "still not vet bruh",
+        "img": "avatars/.aesthet.e.webp"
+    },
+    {
+        "name": "7299473",
+        "role": "Regular",
+        "quote": "Regular? More like Veteran. Some of y’all just spawned in.",
+        "img": "avatars/7299473.webp"
+    },
+    {
+        "name": "anna_zing",
+        "role": "Regular",
+        "quote": "I can do it",
+        "img": "avatars/anna_zing.webp"
+    },
+    {
+        "name": "autonoedu",
+        "role": "Regular",
+        "quote": "\"Don't regret what you did, don't do something you'll regret.\"",
+        "img": "avatars/autonoedu.webp"
+    },
+    {
+        "name": "axar94",
+        "role": "Regular",
+        "quote": "Shower everyday",
+        "img": "avatars/axar94.webp"
+    },
+    {
+        "name": "dittoarts",
+        "role": "Regular",
+        "quote": "A human being is but a thinking reed or sumn",
+        "img": "avatars/dittoarts.webp"
+    },
+    {
+        "name": "doughnut.dude",
+        "role": "Regular",
+        "quote": "the one piece is real",
+        "img": "avatars/doughnut.dude.webp"
+    },
+    {
+        "name": "elxetolo209_98245",
+        "role": "Regular",
+        "quote": "Think about how many hours you missed sleeping. #staysleepdeprived!",
+        "img": "avatars/elxetolo209_98245.webp"
+    },
+    {
+        "name": "firestxrmx",
+        "role": "Regular",
+        "quote": "I HAVE A PLAN ARTHUR",
+        "img": "avatars/firestxrmx.webp"
+    },
+    {
+        "name": "frostic042",
+        "role": "Regular",
+        "quote": "Everything comes to an end, so cherish every moment and live it without any regrets",
+        "img": "avatars/frostic042.webp"
+    },
+    {
+        "name": "haru2.1",
+        "role": "Regular",
+        "quote": "bald people should never laugh",
+        "img": "avatars/haru2.1.webp"
+    },
+    {
+        "name": "itzkin_",
+        "role": "Regular",
+        "quote": "Myocardial infarction go brrrrrrrr",
+        "img": "avatars/itzkin_.webp"
+    },
+    {
+        "name": "karatenl",
+        "role": "Regular",
+        "quote": "A tomb now suffices him for whom the whole world was not sufficient",
+        "img": "avatars/karatenl.webp"
+    },
+    {
+        "name": "krudawg25",
+        "role": "Regular",
+        "quote": "Fiona, I woul like to forg tell you that I am no Delta’s stepmom trooper",
+        "img": "avatars/krudawg25.webp"
+    },
+    {
+        "name": "lizzie_9107",
+        "role": "Regular",
+        "quote": "Born to die",
+        "img": "avatars/lizzie_9107.webp"
+    },
+    {
+        "name": "p1k4chuv",
+        "role": "Regular",
+        "quote": "#honestyisthebestpolicy",
+        "img": "avatars/p1k4chuv.webp"
+    },
+    {
+        "name": "piratocapton",
+        "role": "Regular",
+        "quote": "Always take a zebra on a plane with you, because statistically it's less likely a plane crashes with a zebra onboard.",
+        "img": "avatars/piratocapton.webp"
+    },
+    {
+        "name": "spookshi",
+        "role": "Regular",
+        "quote": "Your life is your story. Write well. Edit often.",
+        "img": "avatars/spookshi.webp"
+    },
+    {
+        "name": "suzukyun",
+        "role": "Regular",
+        "quote": "thanks for the memories, love you all ♡",
+        "img": "avatars/suzukyun.webp"
+    },
+    {
+        "name": "thisiswrench",
+        "role": "Regular",
+        "quote": "Hannah Montana said nobody's perfect but here i am",
+        "img": "avatars/thisiswrench.webp"
+    },
+    {
+        "name": "vkl109",
+        "role": "Regular",
+        "quote": "We cope with caffeine and random ahh music (and a hint of \"stfu\")",
+        "img": "avatars/vkl109.webp"
+    },
+    {
+        "name": "wandering._.soul.",
+        "role": "Regular",
+        "quote": "I forgot.",
+        "img": "avatars/wandering._.soul..webp"
+    },
+    {
+        "name": "you2_01122",
+        "role": "Regular",
+        "quote": "Zinc knows what you did.",
+        "img": "avatars/you2_01122.webp"
+    },
+    {
+        "name": "youdonotknowwho",
+        "role": "Regular",
+        "quote": "one more step towards the horizon we set eyes upon",
+        "img": "avatars/youdonotknowwho.webp"
+    },
+    {
+        "name": "5harky1121",
+        "role": "Active",
+        "quote": "Type your response...",
+        "img": "avatars/5harky1121.webp"
+    },
+    {
+        "name": "____noor_____",
+        "role": "Active",
+        "quote": "when you can't recognize your own mistakes, you've truely lost.",
+        "img": "avatars/____noor_____.webp"
+    },
+    {
+        "name": "aabanahmed",
+        "role": "Active",
+        "quote": "This quote is awesome please like.",
+        "img": "avatars/aabanahmed.webp"
+    },
+    {
+        "name": "chaiaurbiscuit",
+        "role": "Active",
+        "quote": "No matter how bad the situation always keep on trying cuz trying won’t hurt but regret will",
+        "img": "avatars/chaiaurbiscuit.webp"
+    },
+    {
+        "name": "coolpenguinjr",
+        "role": "Active",
+        "quote": "The math helpers are nerds but those nerds are cool",
+        "img": "avatars/coolpenguinjr.webp"
+    },
+    {
+        "name": "evelynthefooddrivenduck",
+        "role": "Active",
+        "quote": "boba, pudding, and ice cream are life~",
+        "img": "avatars/evelynthefooddrivenduck.webp"
+    },
+    {
+        "name": "geckoguy__",
+        "role": "Active",
+        "quote": "Life's a mosh pit. Throw elbows. Stay metal.",
+        "img": "avatars/geckoguy__.webp"
+    },
+    {
+        "name": "goowd",
+        "role": "Active",
+        "quote": "I peaked in kindergarten",
+        "img": "avatars/goowd.webp"
+    },
+    {
+        "name": "hey._siri",
+        "role": "Active",
+        "quote": "the way i'm probably still a greenie at the end of the year ToT",
+        "img": "avatars/hey._siri.webp"
+    },
+    {
+        "name": "iambored3918",
+        "role": "Active",
+        "quote": "I'm cooked beyond comprehension",
+        "img": "avatars/iambored3918.webp"
+    },
+    {
+        "name": "ilikecarzzzzzz_56329",
+        "role": "Active",
+        "quote": "Cool server, cool mods. Andrew is the goat. Have a wonderful day",
+        "img": "avatars/ilikecarzzzzzz_56329.webp"
+    },
+    {
+        "name": "jeevanbx",
+        "role": "Active",
+        "quote": "\"Fortune doesn't just favor the bold, it favors the righteous.\"  - a future UBC/SFU '30 student :>",
+        "img": "avatars/jeevanbx.webp"
+    },
+    {
+        "name": "jimmycronny1123",
+        "role": "Active",
+        "quote": "i love bananas and ice cream",
+        "img": "avatars/jimmycronny1123.webp"
+    },
+    {
+        "name": "sythespi",
+        "role": "Active",
+        "quote": "“Silence is the perfectest herald of joy; I were but little happy if I could say how much” —William Shakespeare",
+        "img": "avatars/sythespi.webp"
+    },
+    {
+        "name": "xasianriceball",
+        "role": "Active",
+        "quote": "Not all greenies but always a greenie",
+        "img": "avatars/xasianriceball.webp"
+    },
+    {
+        "name": "jamden14",
+        "role": "Jr. Moderator",
+        "quote": "why do I live for college credit",
+        "img": "avatars/jamden14.webp"
+    }
+    
+]
