@@ -30,7 +30,7 @@
         "img": "avatars/and_rew..webp"
     },
     {
-        "name": ".teash",
+        "name": "teash",
         "role": "Sr. Moderator",
         "quote": "One year older, One year wiser, lets run it back",
         "img": "avatars/.teash.webp"
@@ -60,7 +60,7 @@
         "img": "avatars/kinxmi.webp"
     },
     {
-        "name": ".cal1co.",
+        "name": "cal1co.",
         "role": "Moderator",
         "quote": "meow",
         "img": "avatars/.cal1co..webp"
@@ -666,4 +666,5 @@
         "img": "avatars/jamden14.webp"
     }
     
+
 ]
