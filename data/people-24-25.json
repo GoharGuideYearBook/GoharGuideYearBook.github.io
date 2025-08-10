@@ -168,6 +168,12 @@
         "img": "avatars/vessiiii.webp"
     },
     {
+        "name": "jamden14",
+        "role": "Jr. Moderator",
+        "quote": "why do I live for college credit",
+        "img": "avatars/jamden14.webp"
+    },
+    {
         "name": "akiioxo",
         "role": "Event Department",
         "quote": "what you seek is seeking you",
@@ -658,16 +664,11 @@
         "role": "Active",
         "quote": "Not all greenies but always a greenie",
         "img": "avatars/xasianriceball.webp"
-    },
-    {
-        "name": "jamden14",
-        "role": "Jr. Moderator",
-        "quote": "why do I live for college credit",
-        "img": "avatars/jamden14.webp"
     }
     
 
 ]
+
 
 
 
