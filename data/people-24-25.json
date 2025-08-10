@@ -186,6 +186,18 @@
         "img": "avatars/clarak_1.webp"
     },
     {
+        "name": "hazel_bazell",
+        "role": "Event Department",
+        "quote": "im an e girl",
+        "img": "avatars/hazel_bazell.webp"
+    },
+    {
+        "name": "kingofpotatoes.",
+        "role": "Event Department",
+        "quote": "im a femboy",
+        "img": "avatars/kingofpotatoes..webp"
+    },
+    {
         "name": "ghoulishlypale",
         "role": "Event Department",
         "quote": "Boo!!! Did I get you this time? <3",
@@ -198,22 +210,10 @@
         "img": "avatars/harry_16.webp"
     },
     {
-        "name": "hazel_bazell",
-        "role": "Event Department",
-        "quote": "im an e girl",
-        "img": "avatars/hazel_bazell.webp"
-    },
-    {
         "name": "itz.sri",
         "role": "Event Department",
         "quote": "I’m not a morning person, I’m not an afternoon person, I’m barely an evening person :P",
         "img": "avatars/itz.sri.webp"
-    },
-    {
-        "name": "kingofpotatoes.",
-        "role": "Event Department",
-        "quote": "im a femboy",
-        "img": "avatars/kingofpotatoes..webp"
     },
     {
         "name": "krisha333",
@@ -668,4 +668,5 @@
     
 
 ]
+
 
