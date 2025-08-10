@@ -96,12 +96,6 @@
         "img": "avatars/dark_yetii.webp"
     },
     {
-        "name": "deltaxp.",
-        "role": "Moderator",
-        "quote": "piiid is cool",
-        "img": "avatars/deltaxp..webp"
-    },
-    {
         "name": "kenothrowsgas",
         "role": "Moderator",
         "quote": "“He who fears death will never do anything worthy of a man who is alive”",
@@ -136,6 +130,12 @@
         "role": "Moderator",
         "quote": "delta is cool",
         "img": "avatars/piiid.webp"
+    },
+    {
+        "name": "deltaxp.",
+        "role": "Moderator",
+        "quote": "piiid is cool",
+        "img": "avatars/deltaxp..webp"
     },
     {
         "name": "sanktitanic",
@@ -668,6 +668,7 @@
     
 
 ]
+
 
 
 
